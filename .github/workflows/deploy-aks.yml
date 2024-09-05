@@ -10,8 +10,8 @@ permissions:
   contents: read # Required to read repository contents
 
 env:
-   RESOURCE_GROUP: myResourceGroup
-   AKS_CLUSTER_NAME: myAKSCluster
+   RESOURCE_GROUP: myResourceGroup1
+   AKS_CLUSTER_NAME: myAKSCluster1
    LOCATION: southeastasia
 
 jobs:
